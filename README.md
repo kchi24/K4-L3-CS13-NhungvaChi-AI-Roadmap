@@ -1,8 +1,19 @@
-# CS13 — Lộ trình sản phẩm AI
+# CS13 — Lộ trình sản phẩm AI · Nhóm NhungvaChi
 
-**AI in Action · Track 1 · Khóa 4 · Level 3 dùng chung · Chiều 16/10/2026**
+**AI in Action · Track 1 · Khóa 4 · Chiều 16/10/2026**
 
-Trong bài này, nhóm bạn lập lộ trình 12 tháng cho một sản phẩm AI: làm gì trước, dựa vào bằng chứng nào, khi nào tăng mức tự động và khi nào dừng. Sản phẩm cuối là **một file Excel của nhóm** và **một slide cho lãnh đạo**, lưu trong repo GitHub của nhóm. Mỗi thành viên nộp cùng link repo trên VLearn. Bạn không cần viết code, cài Python hay có API key.
+- **Tên nhóm:** NhungvaChi
+- **Đề bài:** Đề 1 · SổSạch — Trợ lý đọc hoá đơn đầu vào cho văn phòng kế toán dịch vụ
+- **Thành viên nhóm:**
+  - Nguyễn Thị Hồng Nhung — MSSV: 2A202602557
+  - Thân Thị Kim Chi — MSSV: 2A202602797
+- **Link repo bài làm:** [https://github.com/kchi24/K4-L3-CS13-NhungvaChi-AI-Roadmap](https://github.com/kchi24/K4-L3-CS13-NhungvaChi-AI-Roadmap)
+
+## Danh sách sản phẩm bàn giao (Deliverables)
+1. **File Excel bài làm chính:** [`NhungvaChi_CS13.xlsx`](NhungvaChi_CS13.xlsx) (Hoàn thiện CP1–CP5, đạt **8/8 tiêu chí Đạt** tại trang `6_Tự kiểm tra`).
+2. **Slide lãnh đạo (PDF):** [`NhungvaChi_CS13_SlideLanhDao.pdf`](NhungvaChi_CS13_SlideLanhDao.pdf) (Bản trình chiếu chính thức tone sáng, hiện đại).
+3. **Phân công & đóng góp thành viên:** [`team/TEAM.md`](team/TEAM.md).
+4. **Báo cáo nhóm & báo cáo cá nhân:** Trong thư mục [`report/team/`](report/team/).
 
 ## Bắt đầu từ đâu?
 
