@@ -18,9 +18,8 @@
    - Trang `6_Tự kiểm tra` đạt **8/8 tiêu chí Đạt**.
 2. **Slide lãnh đạo (PDF):** [`NhungvaChi_CS13_SlideLanhDao.pdf`](NhungvaChi_CS13_SlideLanhDao.pdf)
    - Bản trình chiếu 1 slide tone sáng, súc tích dành cho Ban Lãnh đạo.
-3. **Slide lãnh đạo (PowerPoint gốc):** [`NhungvaChi_CS13_SlideLanhDao.pptx`](NhungvaChi_CS13_SlideLanhDao.pptx)
-4. **Phân công & đóng góp thành viên:** [`team/TEAM.md`](team/TEAM.md)
-5. **Báo cáo nhóm & báo cáo cá nhân:**
+3. **Phân công & đóng góp thành viên:** [`team/TEAM.md`](team/TEAM.md)
+4. **Báo cáo nhóm & báo cáo cá nhân:**
    - Báo cáo nhóm: [`report/team/group_report.md`](report/team/group_report.md)
    - Báo cáo cá nhân: [`report/team/2A202602557_NguyenThiHongNhung.md`](report/team/2A202602557_NguyenThiHongNhung.md)
    - Báo cáo cá nhân: [`report/team/2A202602797_ThanThiKimChi.md`](report/team/2A202602797_ThanThiKimChi.md)
