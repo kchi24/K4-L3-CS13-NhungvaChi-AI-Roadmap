@@ -1,7 +1,7 @@
 # Thông tin nhóm
 
 - Tên nhóm: NhungvaChi
-- Số nhóm: (Đề 1 - Nhóm 1/4/7/10...)
+- Số nhóm: (Đề 1)
 - Đề CS13: Đề 1 · SổSạch — đọc hóa đơn đầu vào
 - Link repo bài làm: https://github.com/kchi24/K4-L3-CS13-NhungvaChi-AI-Roadmap
 
